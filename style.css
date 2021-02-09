@@ -1,0 +1,63 @@
+*{
+background-color :rgb(255, 187, 0)
+        }
+        h1{
+            color :rgb(255, 255, 255);
+            font:100;
+        }
+
+        h3{
+            color : rgb(255, 255, 255);
+        }
+        ul{
+            color :rgb(255, 255, 255)
+        }
+        h2{
+            color : rgb(255, 255, 255);
+        }
+        ol{
+            color :rgb(255, 255, 255)
+        }
+
+        .Facts {
+            border : solid;
+            border-color: aqua;
+            border-width: 0.7ch;
+            display: flex;
+            justify-content: space-around;
+        }
+        .Video {
+            border : solid;
+            border-color: aqua;
+            border-width: 0.5ch;
+            display: flex;
+            justify-content: space-around;
+        }
+        .Images {
+            border : solid;
+            border-color: rgb(49, 173, 44);
+            border-width: 1ch;
+            display: flex;
+            justify-content: space-around;
+        }
+        .Watch {
+            border : solid;
+            border-color : rgb(0, 255, 76);
+            border-width: 0.3ch;
+            display: flex;
+            justify-content: space-around; 
+        }
+        .About {
+            border : solid;
+            border-color : rgb(0, 255, 76);
+            border-width: 0.3ch;
+            display: flex;
+            justify-content: space-around; 
+        }
+        .Follow {
+            border : solid;
+            border-color : rgb(0, 255, 76);
+            border-width: 0.3ch;
+            display: flex;
+            justify-content: space-around; 
+        }
